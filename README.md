@@ -1,8 +1,6 @@
---- Made by jvmho ---
-
-ZSH script to extract any archive (not any, but most of them)
-
---- Supported formats ---
+# ZSH script to extract any archive (not any, but most of them)
+ --- Made by jvmho ---
+## --- Supported formats ---
 - .tar 
 - .tar.gz / .gz
 - .tar.bz2 / .bz2
@@ -11,7 +9,7 @@ ZSH script to extract any archive (not any, but most of them)
 - .rar
 - .zip
 
---- How to use ---
+## --- How to use ---  
 Make your script executable and add script to your $PATH:
 
 ```bash
