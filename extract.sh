@@ -41,7 +41,7 @@ case $ext in
     ;;
 
   rar)
-    unrar x -0+ "$archive" "$destination"
+    unrar x "$archive" -o "$destination"
     ;;
   
   gz)

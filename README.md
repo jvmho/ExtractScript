@@ -10,8 +10,3 @@ ZSH script to extract any archive (not any, but most of them)
 - .7z
 - .rar
 - .zip
-
---- Syntax ---
-extract [[path/to/archive]] [[destination/path]]
-Arguments: 
---help    Show help
