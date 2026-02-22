@@ -37,7 +37,7 @@ case $ext in
     ;;
 
   7z)
-    7z x -o"$archive" -y "$destination"
+    7z x "$archive" -o "$destination"
     ;;
 
   rar)
